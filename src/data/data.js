@@ -10,19 +10,19 @@
         answer: "Props"
     },
     3:{
-        question:"What is the purpose of react router?",
+        question:"What is the purpose of react router in react?",
         options:["Managing Http requests","Navigation and Routing","Authentication","Connecting components"],
         answer: "Navigation and Routing"
     },
     4:{
-        question:"What is JSX in React?",
+        question:"What is JSX stands for in React?",
         options:["Javascript Extension","Java XML","Javascript XML","JSON Extension"],
         answer: "Javascript XML"
     },
     5:{
-        question:"Which lifecycle method is called after a component is rendered for the first time?",
-        options:["componentDidMount()","componentDidUpdate()","componentWillMount()","componentWillRender()"],
-        answer: "componentDidMount()"
+        question:"What is the purpose of react Fragments?",
+        options:["To create new element","To group multiple elements","To define reusable elements","To add extra node"],
+        answer: "To group multiple elements"
     },
     6:{
         question:"What does Redux provide for managing the state?",
@@ -30,7 +30,7 @@
         answer: "Centralized state management"
     },
     7:{
-        question:"What is the use of virtual Dom?",
+        question:"What is the use of virtual Dom in react?",
         options:["To Manipulate HTML DOM","To reduce HTTP requests","To batch state updates","To reduce direct DOM manipulation"],
         answer: "To reduce direct DOM manipulation"
     },
@@ -40,12 +40,12 @@
         answer: "To define dataType of Props"
     },
     9:{
-        question:"What is the use of Key attribute?",
+        question:"What is the purpose of Key attribute?",
         options:["For styling list","For changing list","For uniquely identifying list items","For creating a list"],
         answer: "For uniquely identifying list items"
     },
     10:{
-        question:"What is the significance of react",
+        question:"What is the significance of react virtual dom",
         options:["Improving reconciliation","Replacement for DOM","Server side rendering","Replcement for Redux"],
         answer: "Improving reconciliation"
     },

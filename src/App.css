@@ -8,6 +8,10 @@
     box-sizing: border-box;
 }
 
+.body{
+  height: 480px !important;
+}
+
 @keyframes shake {
     0% {
       transform: translateX(10px);
@@ -50,3 +54,7 @@
     animation-timing-function: ease-out;
   }
   
+  
+  .number{
+    font-family: 'Nova Square', sans-serif;
+  }
